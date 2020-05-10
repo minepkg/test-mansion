@@ -1,0 +1,47 @@
+# You usually do not need to edit this file.
+# It was genereted by minepkg.
+
+lockfileVersion = 1
+
+[fabric]
+  minecraft = "1.14.3"
+  fabricLoader = "0.4.8+build.155"
+  mapping = "1.14.3+build.12"
+
+[dependencies]
+  [dependencies.fabric]
+    project = "fabric"
+    version = "0.0.0-a201907021938148"
+    ipfsHash = ""
+    Sha256 = "52f773e24214823ec6967f6d9a4ff52011ba164682353510e7992b0a28433d83"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/fabric@0.0.0-a201907021938148/download"
+  [dependencies.minepkg-companion]
+    project = "minepkg-companion"
+    version = "0.1.1"
+    ipfsHash = ""
+    Sha256 = "69d311196b3954d1a83ea5283d99db5ce9148ebd6f2cee4531d8db26db012a52"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/minepkg-companion@0.1.1/download"
+  [dependencies.modmenu]
+    project = "modmenu"
+    version = "0.0.0-a201907110301518"
+    ipfsHash = ""
+    Sha256 = "1fda55999a6f50104820961e124b2441143118c9fd89c2c453ad28cb81db4857"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/modmenu@0.0.0-a201907110301518/download"
+  [dependencies.roughlyenoughitems]
+    project = "roughlyenoughitems"
+    version = "0.0.0-a201907022040838"
+    ipfsHash = ""
+    Sha256 = "0677aee69286d1e65af1929d71d369eb70bdf07e12819c95a1747bbaae3b51fd"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/roughlyenoughitems@0.0.0-a201907022040838/download"
+  [dependencies.theoneprobe]
+    project = "theoneprobe"
+    version = "0.0.0-first"
+    ipfsHash = ""
+    Sha256 = "d4d7caaf9f199d5fb162db27682b3fb28911e957708b133234d6ca0568e8c539"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/theoneprobe@0.0.0-first/download"
+  [dependencies.worldedit]
+    project = "worldedit"
+    version = "7.0.1"
+    ipfsHash = ""
+    Sha256 = "f3ded47fc70f553741f3637aab32d47ed12f4bc62d8ab4d0cbab285dd04be3b7"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/worldedit@7.0.1/download"
