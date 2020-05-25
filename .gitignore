@@ -1,8 +1,2 @@
-.fabric
-.mixin.out
-crash-reports
-logs
-mods
-usercache.json
-realms_persistence.json
 tmp
+minecraft
