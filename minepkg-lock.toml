@@ -4,18 +4,18 @@
 lockfileVersion = 1
 
 [fabric]
-  minecraft = "1.14.3"
-  fabricLoader = "0.4.8+build.155"
-  mapping = "1.14.3+build.12"
+  minecraft = "1.15"
+  fabricLoader = "0.8.4+build.198"
+  mapping = "1.15+build.2"
 
 [dependencies]
   [dependencies.fabric]
     project = "fabric"
-    version = "0.0.0-a202001122100420"
+    version = "0.0.0-a202006230908526"
     type = "mod"
-    ipfsHash = "QmQQLYCi2Qs9yEnwWHH1fnoRWCxXkeLaF3sxDM8haMaLZ2"
-    Sha256 = "cc15c2ee297b7dcb47aafa9018222f2eda586cbab9f1fbae0b25e3197f290df6"
-    url = "https://test-api.minepkg.io/v1/releases/fabric/fabric@0.0.0-a202001122100420/download"
+    ipfsHash = "Qmf7HFC9c2npTY1PDE2w1onBqHoDWBagEwbptjmn59fFCz"
+    Sha256 = "d4f7393c0a56f32868a614d355bd8f711c4a758e096062f19e0fac228b34f776"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/fabric@0.0.0-a202006230908526/download"
   [dependencies.minepkg-companion]
     project = "minepkg-companion"
     version = "0.1.1"
@@ -25,29 +25,8 @@ lockfileVersion = 1
     url = "https://test-api.minepkg.io/v1/releases/fabric/minepkg-companion@0.1.1/download"
   [dependencies.modmenu]
     project = "modmenu"
-    version = "0.0.0-a201910182201101"
+    version = "0.0.0-a202005312316247"
     type = "mod"
-    ipfsHash = "QmUKgk5X7M2azr44oanFgTGa8zc5cdRjK597JFeyE8Rje9"
-    Sha256 = "8c45152a1c420274381d4296f70ce8ba6f8693b3121fadd3f7818193001a43b4"
-    url = "https://test-api.minepkg.io/v1/releases/fabric/modmenu@0.0.0-a201910182201101/download"
-  [dependencies.roughlyenoughitems]
-    project = "roughlyenoughitems"
-    version = "0.0.0-a202005191408607"
-    type = "mod"
-    ipfsHash = "QmNjLnH1V4WHT3TWEiKbT3tGuqq6YQq1SkuPTWPFMxtA7c"
-    Sha256 = "c857e90fe88dc4ee31b13204d15706f07b01a898b468481bf545ae03a1acfe5e"
-    url = "https://test-api.minepkg.io/v1/releases/fabric/roughlyenoughitems@0.0.0-a202005191408607/download"
-  [dependencies.theoneprobe]
-    project = "theoneprobe"
-    version = "0.0.0-first"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "d4d7caaf9f199d5fb162db27682b3fb28911e957708b133234d6ca0568e8c539"
-    url = "https://test-api.minepkg.io/v1/releases/fabric/theoneprobe@0.0.0-first/download"
-  [dependencies.worldedit]
-    project = "worldedit"
-    version = "7.0.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "f3ded47fc70f553741f3637aab32d47ed12f4bc62d8ab4d0cbab285dd04be3b7"
-    url = "https://test-api.minepkg.io/v1/releases/fabric/worldedit@7.0.1/download"
+    ipfsHash = "QmcYbxNTfZZL67woM56UfgiUKNjiB9td6uH81WSY3sT4c9"
+    Sha256 = "3e1931dc44db2686e1c0fe5f80040b4d9358e9d5ea9ee72764dcb2349f2ee2a3"
+    url = "https://test-api.minepkg.io/v1/releases/fabric/modmenu@0.0.0-a202005312316247/download"
