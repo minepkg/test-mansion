@@ -4,7 +4,7 @@ manifestVersion = 0
   type = "modpack"
   name = "test-mansion"
   description = "A test modpack to test mods."
-  version = "1.8.1"
+  version = "1.8.2"
   platform = "fabric"
   license = "MIT"
 
@@ -15,6 +15,6 @@ manifestVersion = 0
 [dependencies]
   fabric = "0.0.0-a201907021938148"
   modmenu = "0.0.0-a201907110301518"
-  test-utils = "0.0.1"
+  test-utils = "0.0.4+1.15.2"
 
 [hooks]
