@@ -14,5 +14,10 @@ manifestVersion = 0
 
 [dependencies]
   fabric = "*"
+  hwyla = "^1.9.23+minepkg.1"
+  i-am-very-smart = "^2.1.0-minepkg.1"
   modmenu = "^1.14.6"
+  roughlyenoughitems = "^5.11.0-minepkg.1"
   test-utils = "^0.0.5"
+
+[dev]
