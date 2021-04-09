@@ -56,11 +56,11 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.modmenu]
     name = "modmenu"
-    version = "1.16.9+minepkg.1"
+    version = "1.16.8-minepkg.2"
     type = "mod"
-    ipfsHash = "QmYoM81i4oKerRfshS7ok14wqF2Yo8ZxPwjdjDPfjxXzEY"
-    Sha256 = "ab321d50f2019fa3c37333c3fc0534b90b13df5fe2b818ea5047dc88eb65f45d"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@1.16.9+minepkg.1/download"
+    ipfsHash = "QmUSg2D4DQfKPth75cV8PYmz4GSz3QKUstVsuiG4uR4ueu"
+    Sha256 = "04c51d167d6701b6426d3b3ec1d1de7b01431f7b063c2c2105d710aaf6c37130"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@1.16.8-minepkg.2/download"
     provider = ""
     dependend = "_root"
   [dependencies.roughlyenoughitems]
