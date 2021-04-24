@@ -4,7 +4,7 @@ manifestVersion = 0
   type = "modpack"
   name = "test-mansion"
   description = "A test modpack to test mods."
-  version = "1.11.1"
+  version = "1.11.2"
   platform = "fabric"
   license = "MIT"
 
@@ -14,7 +14,6 @@ manifestVersion = 0
 
 [dependencies]
   fabric = "*"
-  # hwyla = "^1.9.23+minepkg.1"
   i-am-very-smart = "^2.1.0-minepkg.1"
   modmenu = "1.16.8-minepkg.2"
   roughlyenoughitems = "^5.11.0-minepkg.1"
