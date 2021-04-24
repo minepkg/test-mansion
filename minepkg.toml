@@ -4,7 +4,7 @@ manifestVersion = 0
   type = "modpack"
   name = "test-mansion"
   description = "A test modpack to test mods."
-  version = "1.11.2"
+  version = "1.11.3"
   platform = "fabric"
   license = "MIT"
 
