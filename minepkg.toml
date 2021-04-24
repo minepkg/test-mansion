@@ -17,6 +17,6 @@ manifestVersion = 0
   i-am-very-smart = "^2.1.0-minepkg.1"
   modmenu = "1.16.8-minepkg.2"
   roughlyenoughitems = "^5.11.0-minepkg.1"
-  test-utils = "^0.0.5"
+  test-utils = "^0.1.0"
 
 [dev]
