@@ -7,6 +7,7 @@ manifestVersion = 0
   version = "1.11.3"
   platform = "fabric"
   license = "MIT"
+  source = "https://github.com/minepkg/test-mansion"
 
 [requirements]
   minecraft = "~1.16.2"
