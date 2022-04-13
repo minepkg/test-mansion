@@ -4,19 +4,19 @@
 lockfileVersion = 1
 
 [fabric]
-  minecraft = "1.18.2"
+  minecraft = "1.18.1"
   fabricLoader = "0.13.3"
-  mapping = "1.18.2+build.2"
+  mapping = "1.18.1+build.22"
 
 [dependencies]
 
   [dependencies.architectury]
     name = "architectury"
-    version = "4.1.39+mpkg.1"
+    version = "3.7.38+mpkg.1"
     type = "mod"
-    ipfsHash = "QmcQJyUziyUTFE5TSMxhfJXhCcvKSbAzocm7bXf7fjhU7s"
-    Sha256 = "b6b29085ec79e0b2f54b7dfa1904cf7268318509d049adab4b65e7cb98d3fab4"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@4.1.39+mpkg.1/download"
+    ipfsHash = "QmRXPG2BQZdh7kd9LpLDchhwr82xZQ2bUsC12aeQLexN9D"
+    Sha256 = "b4faf75e1a48d7aef9e2eb9c30783dd7d66683260654e7c620d67f78ffdfc707"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@3.7.38+mpkg.1/download"
     provider = "minepkg"
     dependend = "roughlyenoughitems"
 
@@ -32,11 +32,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.48.0+1.18.mpkg.1"
+    version = "0.46.4+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = "QmUkvWXqHpWfxfAaDqJyWssJ8rRtfHwSKor7YQivEyYQ4W"
-    Sha256 = "3f4c6789b85ba225965752a33587e6e75a331dc34eac12a164b622ec6a7b60bc"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.48.0+1.18.mpkg.1/download"
+    ipfsHash = "QmdNJbF27Rj35hXtVGKkgYPbDa4HdBT8VRLibKAnU1DscL"
+    Sha256 = "a6c2e02193e4a35718d30826b1eaf9b150461abb934f28930a7ad6576e95e38e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.46.4+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -62,20 +62,20 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "8.0.442+mpkg.1"
+    version = "7.3.432-0.mpkg.1"
     type = "mod"
-    ipfsHash = "QmTwLCU94pSkHADMbszf93uHXWZaPA9Qwnu9RujrtyHhb5"
-    Sha256 = "a3911c18acc644ae24e866f44d2d3d34e11e8d1a9005b5586c15c711b43f7991"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@8.0.442+mpkg.1/download"
+    ipfsHash = "QmR1bqpvJ9pUuSvSCvVVaqokrvsDXTKBQ7LsntmzxjmWwx"
+    Sha256 = "56aac369062e4fff9b40620b2f563bf935992be300425477ce1ba4d0f04059e2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@7.3.432-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.test-utils]
     name = "test-utils"
-    version = "0.3.0+1.18.2"
+    version = "0.3.0+1.18.1"
     type = "mod"
-    ipfsHash = "QmUWzfWSZyZPbZqGMJ6PszgeePBgmVvXataRYuVjmPwrnU"
-    Sha256 = "04c786606baa19d9bc8818164e7f71d2d6529c1f910c5ef78c36e70fdf057e84"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/test-utils@0.3.0+1.18.2/download"
+    ipfsHash = "QmRFN8fKkAcTygw7vXXSXwmXSYsFsezTvCYwh92UKiCiX4"
+    Sha256 = "5faea9f410971584c0731299d2e3f34f72ee20c61ef4d5402d82c67c793293e2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/test-utils@0.3.0+1.18.1/download"
     provider = "minepkg"
     dependend = ""
