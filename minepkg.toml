@@ -6,20 +6,20 @@ manifestVersion = 0
   type = "modpack"
   name = "test-mansion"
   description = "A test modpack to test mods."
-  version = "1.13.0+1.18.1"
+  version = "1.14.0+1.18.2"
   platform = "fabric"
   license = "MIT"
   source = "https://github.com/minepkg/test-mansion"
 
 # These are global requirements
 [requirements]
-  minecraft = "1.18.0 - 1.18.1"
+  minecraft = "1.18.2"
   fabricLoader = "*"
 
 [dependencies]
   fabric = "*"
   modmenu="^3.0.0+mpkg.1"
-  roughlyenoughitems = "^7.3.432-0.mpkg.1"
-  test-utils="0.3.0+1.18.1"
+  roughlyenoughitems = "^8.3.519+mpkg.1"
+  test-utils="0.3.0+1.18.2"
 
 [dev]
