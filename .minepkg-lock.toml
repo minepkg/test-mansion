@@ -4,9 +4,9 @@
 lockfileVersion = 1
 
 [fabric]
-  minecraft = "1.19.2"
+  minecraft = "1.19.3"
   fabricLoader = "0.14.14"
-  mapping = "1.19.2+build.28"
+  mapping = "1.19.3+build.5"
 
 [dependencies]
 
