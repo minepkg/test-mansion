@@ -13,13 +13,13 @@ manifestVersion = 0
 
 # These are global requirements
 [requirements]
-  minecraft = "1.19.0 - 1.19.2"
+  minecraft = "1.19.3"
   fabricLoader = "*"
 
 [dependencies]
   fabric = "*"
-  modmenu="^4.0.4+mpkg.1"
-  roughlyenoughitems = "^9.1.587+mpkg.1"
-  test-utils="0.3.2+1.19.2"
+  modmenu="^5.0.2+minepkg.1"
+  roughlyenoughitems = "^10.0.2274+minepkg.1"
+  test-utils="0.4.0+1.19.3"
 
 [dev]
