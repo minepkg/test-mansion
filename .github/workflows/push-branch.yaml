@@ -16,6 +16,6 @@ jobs:
           java-version: 17
       - uses: minepkg/action-crash-test@v0
         with:
-          working-directory: '/' # optional
+          # working-directory: '/' # optional
           no-build: true
           # minecraft: 1.18.2 # optional
