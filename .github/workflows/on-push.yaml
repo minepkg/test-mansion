@@ -1,0 +1,23 @@
+name: 'crash test on push'
+on: 
+  pull_request:
+  push:
+
+jobs:
+  crash-test:
+    strategy: 
+      matrix:
+        directory: ["1.16", "1.17", "1.18", "1.19", "1.19.3"]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        # This step is only needed if you need to build a mod
+      - name: Set up JDK 1.17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'adopt'
+          java-version: 17
+      - uses: minepkg/action-crash-test@v0
+        with:
+          # working-directory: '/' # optional
+          # minecraft: 1.18.2 # optional
