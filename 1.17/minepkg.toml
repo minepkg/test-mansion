@@ -1,0 +1,25 @@
+
+# Preview of the minepkg.toml format! Could break anytime!
+manifestVersion = 0
+
+[package]
+  type = "modpack"
+  name = "test-mansion"
+  description = "A test modpack to test mods."
+  version = "1.12.0"
+  platform = "fabric"
+  license = "MIT"
+  source = "https://github.com/minepkg/test-mansion"
+
+# These are global requirements
+[requirements]
+  minecraft = "~1.17.0"
+  fabricLoader = ">=0.12.0"
+
+[dependencies]
+  fabric = "*"
+  modmenu = "^2.0.2-0.mpkg.1"
+  roughlyenoughitems = "^6.0.264-alpha+mpkg.2"
+  test-utils = "^0.2.0"
+
+[dev]
